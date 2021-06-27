@@ -1,0 +1,4 @@
+[core]
+    remote = data
+['remote "data"']
+    url = gs://astute-pride-317802-kubeflowpipelines-default/tfx-template/data/taxi
