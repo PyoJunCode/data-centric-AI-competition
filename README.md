@@ -2,6 +2,10 @@
 
 <br>
 
+Repository for Data version control(DVC)
+
+overall Pipeline -> [github]()
+
 ## About
 
 **Jun 18, 2021 ~ Sep 4, 2021**
@@ -16,5 +20,12 @@ More information : [Homepage](https://https-deeplearning-ai.github.io/data-centr
 
 ## Log
 
-- 6/19 - Initialized, **test acc=0.53**
+-  Initialized, **test acc=0.53**
+- v1.0, **test acc=0.63**
+  - random rotate
+  - resize
+  - random crop
+- v2.0, test **acc=0.69**
+- v3.0 test **acc=0.75**
+  - cv2 erosion/dialtion
 
